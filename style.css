@@ -1,0 +1,230 @@
+.head{
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    color: #333;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.navbar{
+    background-color:white;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    color: #f1f1f1;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #333;
+    font-size: large;
+}
+.strive{
+background-image: url(https://cdn.prod.website-files.com/6038c1030be2580db46ccf46/61c35cbda55c2bce45cc10a7_Family%20moving%20houses.png);
+background-size: cover;  
+height: 500px; 
+background-position: center;
+    position: relative;
+    width: 100%;
+}
+.strive .overlay {
+top: 50%;
+    position: absolute;
+left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+}
+.btn{background-color: yellow;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.about{
+    margin-top: 5px;
+display: flex;margin-bottom: 10px
+
+    
+}
+.services{
+display: flex;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 50px;
+}
+.logo{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+#logoimage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.service{
+    justify-items: center;
+    
+}
+
+#learn{
+color:orange;
+font-size: small;
+
+}
+.storage{
+background-color: blue;
+}
+.video{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.icon{
+    position: relative;
+    display: inline-block;
+}
+#play{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    color: white;
+    cursor: pointer;
+}
+.videoimage{
+    display: block;
+    width: 100%;
+    height: auto;
+
+}
+.question{
+    background-image: url(https://moveforce.pt/wp-content/uploads/2023/09/orcamento-mudanca.webp);
+    height: 500px;
+    width: 500px;
+    background-position: center;
+    position: relative;
+
+}
+.questions{
+    top: 50%;
+    position: absolute;
+left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+}
+.chose{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.imageform{
+    background-image: url(https://www.storageking.co.uk/media/2aap1ab3/featured-image_moving-in-together-101.jpg?width=420&height=0&format=jpg&v=1daf46aa5652170);
+    background-size: cover;  
+height: 500px; 
+background-position: center;
+    position: relative;
+    width: 100%;
+}
+.form{
+    display: flex;
+    font-size: 20px;
+    background-color: blue;
+    padding: 100px;
+}
+.book{
+    display: flex;
+    gap:none;
+    justify-content: center;
+    margin-top: 1px;
+}
+#local{
+    border-radius: 5px;
+    margin-bottom: 10px
+}
+label{
+    display: block;
+    margin-bottom: 20px; 
+  }
+  .request{
+    background-color: orange;
+    padding: 100px;
+  }
+
+ .testimonials{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+ }
+ 
+ .subscribe{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+ }
+ .company{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/046/381/414/small_2x/african-american-worker-unloading-boxes-from-van-outdoors-moving-service-concept-male-employee-of-moving-company-makes-inventory-of-packed-boxes-and-writes-data-to-clipboard-photo.jpg);
+    height: 400px; 
+    position: relative;
+    width: 100%;
+    background-repeat: no-repeat;
+ }
+ .choice{
+    background-image: url(https://www.olympialondonremovals.co.uk/upload/page/house_img3.jpg);
+    position: relative;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    
+
+ }
+ .boomer{
+    background-image: url(https://nelsonwesterberg.com/wp-content/uploads/2024/06/Find-the-Best-Moving-Company.jpeg);
+    position: relative;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    
+ }
+ .blog{
+    display: flex;
+ }
+ .helping{
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    margin-top: 5px;
+    gap : 50px;
+ }
+ .explore{
+    background-color: black;
+ }
+  
+
