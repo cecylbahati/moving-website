@@ -225,6 +225,19 @@ label{
  }
  .explore{
     background-color: black;
+    color: white;
+    margin-top:0px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 0px;
+ }
+ .bottom{
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    
+
  }
   
 
